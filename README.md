@@ -1,5 +1,7 @@
 # Hi 👋
-## I'm <a href="https://masterutsav.in" target="_blank">Utsav Jaiswal</a>
+<h2>
+  I'm <a href="https://masterutsav.in" target="_blank">Utsav Jaiswal</a>
+</h2> 
 
 ### 🌐 Web2 Development | Next.js + MERN
 - Seamless web applications with Next.js
