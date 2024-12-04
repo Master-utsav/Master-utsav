@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=master-utsav&show_icons=true&locale=en&layout=compact" alt="master-utsav" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=master-utsav" alt="master-utsav" />
+  <img src="https://streak-stats.demolab.com/?user=Master-utsav" alt="master-utsav" />
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=master-utsav&show_icons=true&show=stars,commits&hide=issues,contribs&theme=dark" alt="master-utsav"/>
